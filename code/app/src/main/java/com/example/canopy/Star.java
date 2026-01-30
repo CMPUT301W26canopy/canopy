@@ -1,5 +1,5 @@
 package com.example.canopy;
 
-public class Circle extends Star {
+public class Star extends Shape {
 
 }
